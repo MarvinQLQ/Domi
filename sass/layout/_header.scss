@@ -1,0 +1,38 @@
+header .logo{
+    font-size: 2rem;
+    color: $red;
+}
+
+header .logo span{
+     
+    color: $black;
+}
+
+header .navbar a{
+
+    font-size: 1.7rem;
+    margin-left: 2rem;
+    color: $red;
+
+}
+
+header .navbar a:hover{
+
+    color:$black;
+    
+}
+
+header input{
+   
+    display: none;
+
+}
+header label{
+
+    font-size: 3rem;
+    color: $red;
+    cursor: pointer;
+    visibility: hidden;
+    opacity: 0;
+
+}
